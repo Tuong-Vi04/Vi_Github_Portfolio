@@ -1,4 +1,4 @@
-# 🗺 Tuong Vi's Portfolio
+# 🗺 Tuong Vi's Data Portfolio
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
