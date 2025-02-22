@@ -5,8 +5,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## 📚 Table of Contents
 - [SQL](#sql)
 - [Python](#python)
-- [Tableau](#tableau)
-- [Excel]()
+- [Power BI](#power-bi)
+- [Excel](#excel)
 
 # SQL
 
@@ -21,7 +21,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 👩🏻‍💻 [Name](Link) | Programming | Short description. | Pandas, Numpy, seaborn | 
+| 👩🏻‍💻 [US Superstore sales](https://github.com/Tuong-Vi04/US-superstore-sales) | Sales | Analyza sales revenues, trends, and forecasting | Pandas, Numpy, seaborn, matplotlib, tabulate, plotly.express | 
 
 ***
 
@@ -36,5 +36,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦄 [Name](link) | Short description. | [Dashboard](Link) |
+| 🦄 [US Superstore sales](https://github.com/Tuong-Vi04/US-superstore-sales/blob/main/US%20Superstore%20sales%20dataset.xlsx) | Sales trends in 2016-2017 | [Dashboard]([Link](https://github.com/Tuong-Vi04/US-superstore-sales/blob/main/Superstore%20sales%20in%20US%20-%20Excel%20dashboard.xlsx)) |
 ***
