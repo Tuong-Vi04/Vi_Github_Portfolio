@@ -12,7 +12,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 💡 [Name](Link) | Data analysis, data cleaning, data transformation | Short description. | 
+| 💡 [Retail_sale](https://github.com/Tuong-Vi04/retail_sale-sql-challenge) | Data analysis, data cleaning, data exploration | Solve the questions on the sale pattern on different categories. | 
 
 
 ***
