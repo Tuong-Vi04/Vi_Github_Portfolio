@@ -13,6 +13,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 | 💡 [Retail_sale](https://github.com/Tuong-Vi04/retail_sale-sql-challenge) | Data analysis, data cleaning, data exploration | Solve the questions on the sale pattern on different categories. | 
+| 💡 [Olist-Brazillian_ecommerce](https://github.com/Tuong-Vi04/Olist---Brazillian-ecommerce?tab=readme-ov-file) | Data analysis, data exploration | Identify the overall information on the sales on Olist, and which factors contribute to the customer satisfaction. |
 
 
 ***
