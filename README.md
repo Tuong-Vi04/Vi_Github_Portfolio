@@ -22,15 +22,15 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 👩🏻‍💻 [US Superstore sales](https://github.com/Tuong-Vi04/US-superstore-sales) | Sales | Analyza sales revenues, trends, and forecasting | Pandas, Numpy, seaborn, matplotlib, tabulate, plotly.express | 
-
+| 👩🏻‍💻 [US Superstore sales](https://github.com/Tuong-Vi04/US-superstore-sales) | Sales | Analyze sales revenues, trends, and forecasting | Pandas, Numpy, seaborn, matplotlib, tabulate, plotly.express | 
+| 👩🏻‍💻 [Zomato Delivery Operations Analytics]([https://github.com/Tuong-Vi04/US-superstore-sales](https://github.com/Tuong-Vi04/Zomato-Delivery-Operations-Analytics)) | Operations | Analyze delivery KPIs, delays, and rider optimization; built predictive models and dashboards for insights | Pandas, Numpy, Scikit-learn, seaborn, matplotlib, plotly.express | 
 ***
 
 # Power BI
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦄 [Name](link) | Short description. | [Dashboard](Link) |
+| 🦄 [Name](link) | Description. | [Dashboard](Link) |
 
 ***
 # Excel
