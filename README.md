@@ -30,7 +30,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦄 [Name](link) | Description. | [Dashboard](Link) |
+| 🦄 [CHEESE PERFORMACE 2023](https://github.com/Tuong-Vi04/CHEESE-PERFORMANCE-2023/blob/main/README.md) | Local Sale | Shipment | Stock Projection | KPIs| [Dashboard]([Link](https://github.com/Tuong-Vi04/CHEESE-PERFORMANCE-2023/blob/main/README.md)) |
 
 ***
 # Excel
